@@ -1,3 +1,3 @@
-# Sharp Engine
+# ${##} Sharp Engine
 
-Lightweight template engine for SHARP `##` in Javascript
+Lightweight template engine for SHARP `{##}` in Javascript
