@@ -1,11 +1,11 @@
-import { compile, bind } from "./index.js";
+import { render } from "./index.js";
 import fs from "fs";
 
 const sharp = fs.readFileSync("./index.sharp", {
   encoding: "utf8",
 });
-const value = compile(sharp);
+const value = render(sharp);
 
-fs.writeFileSync("./compile_result.txt", value, {
+fs.writeFileSync("./render_result.txt", value, {
   encoding: "utf8",
 });

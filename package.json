@@ -1,19 +1,16 @@
 {
   "name": "sharpjs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lightweight template engine for SHARP {##} in Javascript",
   "main": "index.js",
   "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "fast-glob": "^3.2.11",
-    "quotation": "^2.0.2",
-    "string-math": "^1.2.2",
-    "tiny-replace-files": "^1.0.0"
-  }
+  "keywords": [
+    "Template Engine",
+    "EJS alternative",
+    "ETA alternative",
+    "Javascript",
+    "Sharp Engine"
+  ],
+  "author": "bl0cknumber <bl0cknumber@protonmail.com>",
+  "license": "MIT"
 }
