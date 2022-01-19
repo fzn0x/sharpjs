@@ -11,7 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fast-glob": "^3.2.11",
     "quotation": "^2.0.2",
-    "string-math": "^1.2.2"
+    "string-math": "^1.2.2",
+    "tiny-replace-files": "^1.0.0"
   }
 }
